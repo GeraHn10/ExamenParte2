@@ -10,7 +10,15 @@ namespace mytunes.Core.Services
         
         public ServiceResult<Album> AddSong(Song song, int idAlbum)
         {
-            
+            throw new System.NotImplementedException();
+        }
+
+        public ServiceResult<Album> FindAlbums(int idAlbum)
+        {
+            var album = _albumRepository.get
+            return album == null
+                ? ServiceResult<Basket>.NotFoundResult($"No se encontró basket para el usuario {userId}")
+                : ServiceResult<Basket>.SuccessResult(basket);
         }
     }
 }

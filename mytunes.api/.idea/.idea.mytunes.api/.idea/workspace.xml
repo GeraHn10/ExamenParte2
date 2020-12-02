@@ -25,7 +25,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="554275b9-4022-4c18-a65e-d0eed7d3f819" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../ExamenParte1/mytunes" beforeDir="false" afterPath="$PROJECT_DIR$/../ExamenParte1/mytunes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.mytunes.api/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.mytunes.api/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.mytunes.api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.mytunes.api/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytunes.Core/Entities/Album.cs" beforeDir="false" afterPath="$PROJECT_DIR$/mytunes.Core/Entities/Album.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytunes.Core/Services/AlbumService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/mytunes.Core/Services/AlbumService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytunes.Core/obj/Debug/net5.0/mytunes.Core.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/mytunes.Core/obj/Debug/net5.0/mytunes.Core.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytunes.Core/obj/Debug/net5.0/mytunes.Core.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/mytunes.Core/obj/Debug/net5.0/mytunes.Core.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytunes.Core/obj/mytunes.Core.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/mytunes.Core/obj/mytunes.Core.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytunes.Core/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/mytunes.Core/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytunes.Core/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/mytunes.Core/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytunes.Core/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/mytunes.Core/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytunes.Core/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/mytunes.Core/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytunes.Infrastructure/mytunes.Infrastructure.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/mytunes.Infrastructure/mytunes.Infrastructure.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytunes.Infrastructure/obj/Debug/net5.0/mytunes.Infrastructure.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/mytunes.Infrastructure/obj/Debug/net5.0/mytunes.Infrastructure.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytunes.Infrastructure/obj/mytunes.Infrastructure.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/mytunes.Infrastructure/obj/mytunes.Infrastructure.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytunes.Infrastructure/obj/mytunes.Infrastructure.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/mytunes.Infrastructure/obj/mytunes.Infrastructure.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytunes.Infrastructure/obj/mytunes.Infrastructure.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/mytunes.Infrastructure/obj/mytunes.Infrastructure.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytunes.Infrastructure/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/mytunes.Infrastructure/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytunes.Infrastructure/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/mytunes.Infrastructure/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytunes.Infrastructure/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/mytunes.Infrastructure/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytunes.Infrastructure/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/mytunes.Infrastructure/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytunes.api/mytunes.api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/mytunes.api/mytunes.api.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytunes.api/obj/Debug/net5.0/mytunes.api.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/mytunes.api/obj/Debug/net5.0/mytunes.api.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytunes.api/obj/Debug/net5.0/mytunes.api.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/mytunes.api/obj/Debug/net5.0/mytunes.api.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytunes.api/obj/mytunes.api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/mytunes.api/obj/mytunes.api.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytunes.api/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/mytunes.api/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytunes.api/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/mytunes.api/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytunes.api/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/mytunes.api/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytunes.api/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/mytunes.api/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,18 +73,25 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/mytunes.Core/Entities/Song.cs" />
-        <option value="$PROJECT_DIR$/mytunes.Core/Entities/Album.cs" />
         <option value="$PROJECT_DIR$/mytunes.Core/Entities/BaseEntity.cs" />
         <option value="$PROJECT_DIR$/mytunes.Core/Enums/ResponseCode.cs" />
         <option value="$PROJECT_DIR$/mytunes.Core/Interfaces/IRepository.cs" />
         <option value="$PROJECT_DIR$/mytunes.Core/Interfaces/Albums/IAlbumRepository.cs" />
         <option value="$PROJECT_DIR$/mytunes.Core/ServiceResult.cs" />
         <option value="$PROJECT_DIR$/mytunes.Core/Interfaces/IBasketService.cs" />
-        <option value="$PROJECT_DIR$/mytunes.Core/Services/AlbumService.cs" />
         <option value="$PROJECT_DIR$/mytunes.Core/Interfaces/IAlbumService.cs" />
         <option value="$PROJECT_DIR$/mytunes.Core/Interfaces/IAlbumRepository.cs" />
         <option value="$PROJECT_DIR$/mytunes.Core/Interfaces/ISongService.cs" />
         <option value="$PROJECT_DIR$/mytunes.Core/Interfaces/ISongRepository.cs" />
+        <option value="$PROJECT_DIR$/mytunes.Core/Entities/Album.cs" />
+        <option value="$PROJECT_DIR$/mytunes.Core/Services/AlbumService.cs" />
+        <option value="$PROJECT_DIR$/mytunes.api/Controllers/BaseController.cs" />
+        <option value="$PROJECT_DIR$/mytunes.api/Controllers/AlbumController.cs" />
+        <option value="$PROJECT_DIR$/mytunes.api/Controllers/Song.cs" />
+        <option value="$PROJECT_DIR$/mytunes.api/Controllers/SongController.cs" />
+        <option value="$PROJECT_DIR$/mytunes.api/Models/Song.cs" />
+        <option value="$PROJECT_DIR$/mytunes.api/Models/Album.cs" />
+        <option value="$PROJECT_DIR$/mytunes.Infrastructure/MyTunesDbContext.cs" />
       </list>
     </option>
   </component>
@@ -152,6 +186,7 @@
       <updated>1606805721215</updated>
       <workItem from="1606805729357" duration="798000" />
       <workItem from="1606806646245" duration="13314000" />
+      <workItem from="1606887547385" duration="4993000" />
     </task>
     <servers />
   </component>
@@ -170,6 +205,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

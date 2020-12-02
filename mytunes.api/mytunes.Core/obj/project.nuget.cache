@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9ak8D579in3Q5WsD9rcyoQRgFuz6Z2O88T+8wQYI10R2R/zkCieZckAkrEjHefdOf788AaWszMGhq5H61WSBmQ==",
+  "dgSpecHash": "hgYlCAqRRK7K8bQgiDqRg6Pcbp+w8TL+9KHA2YdbfgRRK3wDbJiFM7tMtNrw/ZXnlccySytx+/JPBIEfqgFurQ==",
   "success": true,
-  "projectFilePath": "/Users/gerahn10/Desktop/examen1/AppsVanguardia/mytunes.api/mytunes.Core/mytunes.Core.csproj",
+  "projectFilePath": "/Users/gerahn10/Desktop/examen1/ExamenParte2/mytunes.api/mytunes.Core/mytunes.Core.csproj",
   "expectedPackageFiles": [
     "/Users/gerahn10/.nuget/packages/microsoft.extensions.configuration/5.0.0/microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "/Users/gerahn10/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

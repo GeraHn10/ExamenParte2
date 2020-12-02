@@ -1,17 +1,10 @@
 using System;
-using System.Collections.Generic;
 
-namespace mytunes.Core.Entities
+namespace mytunes.api.Models
 {
-    public class Album : BaseEntity
+    public class Album
     {
-
-        public Album()
-        {
-            Songs = new List<Song>();
-        }
-
-        public ICollection<Song> Songs { get; set; }
+        public int id { get; set; }
         
         public string Name { get; set; }
         
@@ -28,7 +21,5 @@ namespace mytunes.Core.Entities
         public string LinkImage { get; set; }
 
         public int TotalMinutes { get; set; }
-        
-
     }
 }

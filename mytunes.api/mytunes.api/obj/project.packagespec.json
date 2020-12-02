@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/gerahn10/Desktop/examen1/AppsVanguardia/mytunes.api/mytunes.api/mytunes.api.csproj",
+    "projectUniqueName": "/Users/gerahn10/Desktop/examen1/ExamenParte2/mytunes.api/mytunes.api/mytunes.api.csproj",
     "projectName": "mytunes.api",
-    "projectPath": "/Users/gerahn10/Desktop/examen1/AppsVanguardia/mytunes.api/mytunes.api/mytunes.api.csproj",
-    "outputPath": "/Users/gerahn10/Desktop/examen1/AppsVanguardia/mytunes.api/mytunes.api/obj/",
+    "projectPath": "/Users/gerahn10/Desktop/examen1/ExamenParte2/mytunes.api/mytunes.api/mytunes.api.csproj",
+    "outputPath": "/Users/gerahn10/Desktop/examen1/ExamenParte2/mytunes.api/mytunes.api/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "net50"
@@ -14,7 +14,11 @@
     },
     "frameworks": {
       "netcoreapp5.0": {
-        "projectReferences": {}
+        "projectReferences": {
+          "/Users/gerahn10/Desktop/examen1/ExamenParte2/mytunes.api/mytunes.Core/mytunes.Core.csproj": {
+            "projectPath": "/Users/gerahn10/Desktop/examen1/ExamenParte2/mytunes.api/mytunes.Core/mytunes.Core.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

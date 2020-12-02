@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/gerahn10/Desktop/examen1/AppsVanguardia/mytunes.api/mytunes.Core/mytunes.Core.csproj",
+    "projectUniqueName": "/Users/gerahn10/Desktop/examen1/ExamenParte2/mytunes.api/mytunes.Core/mytunes.Core.csproj",
     "projectName": "mytunes.Core",
-    "projectPath": "/Users/gerahn10/Desktop/examen1/AppsVanguardia/mytunes.api/mytunes.Core/mytunes.Core.csproj",
-    "outputPath": "/Users/gerahn10/Desktop/examen1/AppsVanguardia/mytunes.api/mytunes.Core/obj/",
+    "projectPath": "/Users/gerahn10/Desktop/examen1/ExamenParte2/mytunes.api/mytunes.Core/mytunes.Core.csproj",
+    "outputPath": "/Users/gerahn10/Desktop/examen1/ExamenParte2/mytunes.api/mytunes.Core/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "net50"

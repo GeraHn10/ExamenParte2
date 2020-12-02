@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gerahn10/Desktop/examen1/AppsVanguardia/mytunes.api/mytunes.Core/mytunes.Core.csproj": {}
+    "/Users/gerahn10/Desktop/examen1/ExamenParte2/mytunes.api/mytunes.Core/mytunes.Core.csproj": {}
   },
   "projects": {
-    "/Users/gerahn10/Desktop/examen1/AppsVanguardia/mytunes.api/mytunes.Core/mytunes.Core.csproj": {
+    "/Users/gerahn10/Desktop/examen1/ExamenParte2/mytunes.api/mytunes.Core/mytunes.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gerahn10/Desktop/examen1/AppsVanguardia/mytunes.api/mytunes.Core/mytunes.Core.csproj",
+        "projectUniqueName": "/Users/gerahn10/Desktop/examen1/ExamenParte2/mytunes.api/mytunes.Core/mytunes.Core.csproj",
         "projectName": "mytunes.Core",
-        "projectPath": "/Users/gerahn10/Desktop/examen1/AppsVanguardia/mytunes.api/mytunes.Core/mytunes.Core.csproj",
+        "projectPath": "/Users/gerahn10/Desktop/examen1/ExamenParte2/mytunes.api/mytunes.Core/mytunes.Core.csproj",
         "packagesPath": "/Users/gerahn10/.nuget/packages/",
-        "outputPath": "/Users/gerahn10/Desktop/examen1/AppsVanguardia/mytunes.api/mytunes.Core/obj/",
+        "outputPath": "/Users/gerahn10/Desktop/examen1/ExamenParte2/mytunes.api/mytunes.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gerahn10/.nuget/NuGet/NuGet.Config"
