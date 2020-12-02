@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mytunes.api", "mytunes.api\mytunes.api.csproj", "{9AD73F0A-08C0-4588-B8F6-DFAEDA30F024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mytunes.Core", "mytunes.Core\mytunes.Core.csproj", "{E8D1ADDF-AF53-490E-B80B-759A041C1015}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mytunes.Infrastructure", "mytunes.Infrastructure\mytunes.Infrastructure.csproj", "{32E00667-831F-471C-B557-ECF0D0489DEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AD73F0A-08C0-4588-B8F6-DFAEDA30F024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD73F0A-08C0-4588-B8F6-DFAEDA30F024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD73F0A-08C0-4588-B8F6-DFAEDA30F024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD73F0A-08C0-4588-B8F6-DFAEDA30F024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8D1ADDF-AF53-490E-B80B-759A041C1015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8D1ADDF-AF53-490E-B80B-759A041C1015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8D1ADDF-AF53-490E-B80B-759A041C1015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8D1ADDF-AF53-490E-B80B-759A041C1015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32E00667-831F-471C-B557-ECF0D0489DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32E00667-831F-471C-B557-ECF0D0489DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32E00667-831F-471C-B557-ECF0D0489DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E00667-831F-471C-B557-ECF0D0489DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
